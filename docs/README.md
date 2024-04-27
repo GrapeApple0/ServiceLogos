@@ -9,6 +9,7 @@ This is a repository created by Sawaratsuki to upload logos of various services.
 
 > [!WARNING]
 > The logos here are not official logos.
+> Publishing images learning these logos with AI is prohibited!
 
 # License
 
